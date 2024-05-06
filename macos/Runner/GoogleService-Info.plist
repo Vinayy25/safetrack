@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>17965689242-i3qbq2pmoegbfiqjjrdc1j89m54a7jdp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.17965689242-i3qbq2pmoegbfiqjjrdc1j89m54a7jdp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>17965689242-bjcfpc4n4nfbadmsq22ij4dagfvbqgun.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2o0qvUNxXgHs_hX7CuyQDS94amSCxbbA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>17965689242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.safetrack.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>cardiogram-proj</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cardiogram-proj.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:17965689242:ios:39cb9f59ea9026e8c2b223</string>
+	<key>DATABASE_URL</key>
+	<string>https://cardiogram-proj-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

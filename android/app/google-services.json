@@ -1,0 +1,259 @@
+{
+  "project_info": {
+    "project_number": "17965689242",
+    "firebase_url": "https://cardiogram-proj-default-rtdb.firebaseio.com",
+    "project_id": "cardiogram-proj",
+    "storage_bucket": "cardiogram-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17965689242:android:fa4421074dfb8dd4c2b223",
+        "android_client_info": {
+          "package_name": "com.example.aircare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17965689242-m0ld6dargfun7t3vbujjs2f0ljqsfv5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aircare",
+            "certificate_hash": "2c5ba78f5b5d7750668884600c0af01d55286e67"
+          }
+        },
+        {
+          "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXW4jD4Mg7BBoEmTdrgSmjwLIFPtuWohU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17965689242-193men5fe6j2vank36qubdk4tqn9glo6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17965689242:android:db7f0f95b511152ac2b223",
+        "android_client_info": {
+          "package_name": "com.example.cardiogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17965689242-bjcfpc4n4nfbadmsq22ij4dagfvbqgun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cardiogram",
+            "certificate_hash": "2c5ba78f5b5d7750668884600c0af01d55286e67"
+          }
+        },
+        {
+          "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXW4jD4Mg7BBoEmTdrgSmjwLIFPtuWohU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17965689242-193men5fe6j2vank36qubdk4tqn9glo6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17965689242:android:0259eecec383b854c2b223",
+        "android_client_info": {
+          "package_name": "com.example.cardiogram_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17965689242-h1rngs40f76kv8sqom1i6utn404d01aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cardiogram_app",
+            "certificate_hash": "2c5ba78f5b5d7750668884600c0af01d55286e67"
+          }
+        },
+        {
+          "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXW4jD4Mg7BBoEmTdrgSmjwLIFPtuWohU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17965689242-193men5fe6j2vank36qubdk4tqn9glo6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17965689242:android:00665ba14e668677c2b223",
+        "android_client_info": {
+          "package_name": "com.example.healthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXW4jD4Mg7BBoEmTdrgSmjwLIFPtuWohU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17965689242-193men5fe6j2vank36qubdk4tqn9glo6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17965689242:android:68946c21c32117c4c2b223",
+        "android_client_info": {
+          "package_name": "com.example.neonatalcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17965689242-j30prv495ehcg7cn03t2ilvblldjllk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neonatalcare",
+            "certificate_hash": "2c5ba78f5b5d7750668884600c0af01d55286e67"
+          }
+        },
+        {
+          "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXW4jD4Mg7BBoEmTdrgSmjwLIFPtuWohU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17965689242-193men5fe6j2vank36qubdk4tqn9glo6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17965689242:android:1aca4b9cb6e4c734c2b223",
+        "android_client_info": {
+          "package_name": "com.example.safetrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXW4jD4Mg7BBoEmTdrgSmjwLIFPtuWohU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17965689242-qg3cnahtaea3fv3bcv4ba66m2tqum2o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17965689242-193men5fe6j2vank36qubdk4tqn9glo6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
